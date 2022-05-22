@@ -1,0 +1,7 @@
+# Ignore .DS_Store and subfolders
+.DS_Store
+**/.DS_Store
+
+# Ignore .ipynb related stuff
+.ipynb_checkpoints
+**/.ipynb_checkpoints
